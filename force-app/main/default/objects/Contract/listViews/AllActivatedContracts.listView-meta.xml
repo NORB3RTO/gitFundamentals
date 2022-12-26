@@ -3,7 +3,7 @@
     <fullName>AllActivatedContracts</fullName>
     <filterScope>Everything</filterScope>
     <filters>
-        <field>CONTRACT.STATUS_CODE</field>
+        <field>CONTRACT.STATUS_CODESS "</field>
         <operation>equals</operation>
         <value>A</value>
     </filters>
